@@ -1,0 +1,1 @@
+# afghanistandl.js
